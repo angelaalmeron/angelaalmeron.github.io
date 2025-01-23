@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/retro-space-invader.png
 title: "Retro Space Invader"
 date: 2021-05-25
 published: true
