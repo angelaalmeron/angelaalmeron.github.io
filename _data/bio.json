@@ -37,10 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": 
-        * Discrete Mathematics
-        * Data Structures
-        [
+      "courses": [ "Discrete Mathematics"
       ]
     }
   ],
