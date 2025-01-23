@@ -8,7 +8,7 @@ published: true
 labels:
   - App
   - Javascript
-  - Codeblock
+  - Code-block
 summary: "Developed a Javascript app project that will help LHS students learn the alma mater song."
 ---
 text here.
