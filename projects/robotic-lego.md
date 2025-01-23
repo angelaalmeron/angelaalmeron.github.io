@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/retro-space-invader.png
+image: img/lego-spike-set.jpg
 title: "SPIKE Robotic Lego"
 date: 2024-06
 published: true
