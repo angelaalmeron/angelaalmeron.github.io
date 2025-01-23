@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/retro-space-invader.png
+image: img/lahainaluna-high-school.jpg
 title: "LHS Alma Mater"
 date: 2021-05
 published: true
 labels:
   - App
   - Javascript
+  - Codeblock
 summary: "Developed a Javascript app project that will help LHS students learn the alma mater song."
 ---
 text here.
