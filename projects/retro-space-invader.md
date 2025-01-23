@@ -8,7 +8,8 @@ published: true
 labels:
   - Video Game
   - Javascript
-summary: "Developed a Javascript video game project that replicates the Retro Space Invader"
+  - Code-block
+summary: "Developed a Javascript video game project that replicates the Retro Space Invader."
 ---
 text here.
 
