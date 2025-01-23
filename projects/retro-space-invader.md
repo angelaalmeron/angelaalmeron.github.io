@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/retro-space-invader.png
 title: "Retro Space Invader"
-date: 2021-05-25
+date: 2021-05
 published: true
 labels:
   - Video Game
