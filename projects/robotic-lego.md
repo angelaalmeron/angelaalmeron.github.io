@@ -17,4 +17,4 @@ In this project, I was more responsible in programming, testing, and enhancing t
 
 Overall, this project was more wholesome for me, interacting with kids and helping them learn computer science. However, it was also a great learning experience for me in terms of educating and guiding students properly without directly giving them the solution but rather, helping them be creative in their own way. Since this was the first project I have been a part of in the ICS department, an addition from this project to me is how to become a great major advisor and guide students through their academic journey and success!
 
-**A fun fact about the name: Dye + Detector**. This is because the robot's sole purpose is to perform a specific action when detecting a color.
+**A fun fact about the name: Dye + Detector = Dyector**. This is because the robot's sole purpose is to perform a specific action when detecting a color.
