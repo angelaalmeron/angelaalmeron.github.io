@@ -4,9 +4,8 @@
     "label": "Student",
     "picture": "https://github.com/angelaalmeron.png",
     "email": "aalmeron@hawaii.edu",
-    "phone": "808-276-1597",
     "website": "https://angelaalmeron.github.io",
-    "summary": "Greetings to all! I am currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai’i at Manoā, and I anticipate to graduate in Spring 2027.",
+    "summary": "Aloha mai kākou! I am currently studying for B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai’i at Manoā, and I anticipate to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "angelaalmeron", "url": "http://github.com/angelaalmeron" },
