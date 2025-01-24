@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
