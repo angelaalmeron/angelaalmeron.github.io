@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/retro-space-invader.png
+image: img/rsi-thumbnail.png
 title: "Retro Space Invader Replica"
 date: 2021-03
 published: true
