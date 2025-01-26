@@ -21,9 +21,10 @@ summary: "Developed a Javascript app project that will help users learn the Laha
 
 This app is written in Javascript, and similarly to ["Retro Space Invader Replica"](https://angelaalmeron.github.io/projects/retro-space-invader.html), this is also developed under **Code.org**. Therefore, it already contains built-in functions and method for me to utilize.
 
+### Style Switch
 For this project, it is a continuation of applying to what I've learned in terms of the basic programming syntax and the programming language, JavaScript. However, the only difference from this project is I shifted to writing or typing the code myself without the help of code-blocks or utilizing it. This shift created a slightly new challenge for me because at the time, I was feeling a little frustrated to keep track of the blocks of code, or the brackets, and semi-colons. Nevertheless, I still find it significantly helpful because not only did it allow me to apply my understanding more deeply, but it was also a great practice for me.
 
 <img width="700px" src="../img/lhs-alma-mater/am-workspace.png" class="img-thumbnail" >
 
 ### Try it out yourself!
-If you are ever interested, you can try out the game yourself with an option to view and edit the code! Enjoy the game! [LHS Alma Mater App](https://studio.code.org/projects/applab/vA4huXufMyU3RNVgLMtgHObxCiyUk9p19UHcsBO6hLQ)
+If you are ever interested, you can try out the game yourself with an option to view and edit the code! Enjoy the app! [LHS Alma Mater App](https://studio.code.org/projects/applab/vA4huXufMyU3RNVgLMtgHObxCiyUk9p19UHcsBO6hLQ)
