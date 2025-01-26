@@ -24,8 +24,8 @@ summary: "Developed a Javascript video game project that replicates the Retro Sp
 This project is written in Javascript and since this is developed under **Code.org**, an educational platform that provides coding lessons and activities that are typically designed for younger students and educators, it contains code blocks or built-in functions and methods like playSound(URL, loop) or .isTouching(target) as instances. An additional feature I would like to highlight from this platform is sprites and its functions, in which I have primarily utilized for the project's game components and operations. For those who may not be familiar what "sprite" is, it is *"a two-dimensional (2D) graphical object used in computer graphics, particularly in video games"* (Andrew Löw, [What is a sprite?](https://www.codeandweb.com/knowledgebase/what-is-a-sprite#:~:text=A%20sprite%20is%20a%20two,combined%20to%20create%20an%20animation.)). 
 
 ### Working Station
-<img width="500px" src="../img/retro-space-invader-replica/rsi-workspace.png" class="img-thumbnail" >
-<img width="500px" src="../img/retro-space-invader-replica/rsi-art-workspace.png" class="img-thumbnail" >
+<img width="700px" src="../img/retro-space-invader-replica/rsi-workspace.png" class="img-thumbnail" >
+<img width="700px" src="../img/retro-space-invader-replica/rsi-art-workspace.png" class="img-thumbnail" >
 
 ### My First Dive into Programming 
 **Fun Fact:** This is the very first programming project I have ever developed myself! Though it was a mere assignment in my junior year of high school, it was one of the first projects that I felt proud of, and that drove me to gain more and more interest in choosing computer science as a major or career. Other than that, it was also a fun little challenge, debugging and figuring out how to create solutions to problems or fix the small issues.
