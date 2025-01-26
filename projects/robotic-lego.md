@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lego-spike-set.jpg
+image: img/dyector-robot/lego-spike-set.jpg
 title: "Dyector Robot"
 date: 2024-06
 published: true
