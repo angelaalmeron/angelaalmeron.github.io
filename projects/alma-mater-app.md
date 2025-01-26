@@ -27,4 +27,4 @@ For this project, it is a continuation of applying to what I've learned in terms
 <img width="700px" src="../img/lhs-alma-mater/am-workspace.png" class="img-thumbnail" >
 
 ### Try it out yourself!
-If you are ever interested, you can try out the game yourself with an option to view and edit the code! Enjoy the app! [LHS Alma Mater App](https://studio.code.org/projects/applab/vA4huXufMyU3RNVgLMtgHObxCiyUk9p19UHcsBO6hLQ)
+If you are ever interested, you can try out the app yourself with an option to view and edit the code! Enjoy the app! [LHS Alma Mater App](https://studio.code.org/projects/applab/vA4huXufMyU3RNVgLMtgHObxCiyUk9p19UHcsBO6hLQ)
