@@ -22,7 +22,7 @@ This project is written in Javascript and since this is developed under **Code.o
 
 <div class="text-center p-4">
   <img width="450px" src="../img/retro-space-invader-replica/rsi-workspace-01.png" class="img-thumbnail" >
-  <img width="450px" src="../img/retro-space-invader-replica/rsi-art-workspace.png" class="img-thumbnail" >
+  <img width="448px" src="../img/retro-space-invader-replica/rsi-art-workspace.png" class="img-thumbnail" >
 </div>>
 
 **Fun Fact:** This is the very first programming project I have ever developed myself! Though it was a mere assignment in my junior year of high school, it was one of the first projects that I felt proud of, and that drove me to gain more and more interest in choosing computer science as a major or career. Other than that, it was also a fun little challenge, debugging and figuring out how to create solutions to problems or fix the small issues.
