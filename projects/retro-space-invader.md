@@ -17,7 +17,7 @@ summary: "Developed a Javascript video game project that replicates the Retro Sp
 
 <img width="320px" src="../img/retro-space-invader-replica/rsi-game.png" class="img-thumbnail" >
 
-### About Code.org
+### Coding with Code.org
 This project is written in Javascript and since this is developed under **Code.org**, an educational platform that provides coding lessons and activities that are typically designed for younger students and educators, it contains code blocks or built-in functions and methods like playSound(URL, loop) or .isTouching(target) as instances. An additional feature I would like to highlight from this platform is sprites and its functions, in which I have primarily utilized for the project's game components and operations. For those who may not be familiar what "sprite" is, it is *"a two-dimensional (2D) graphical object used in computer graphics, particularly in video games"* (Andrew Löw, [What is a sprite?](https://www.codeandweb.com/knowledgebase/what-is-a-sprite#:~:text=A%20sprite%20is%20a%20two,combined%20to%20create%20an%20animation.)). 
 
 ### Working Station
