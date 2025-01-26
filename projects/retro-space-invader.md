@@ -13,7 +13,7 @@ labels:
 summary: "Developed a Javascript video game project that replicates the Retro Space Invader."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/rsi-game.png" class="img-thumbnail" >
+  <img width="320px" src="../img/micromouse/rsi-game.png" class="img-thumbnail" >
 </div>
 
 **Retro Space Invader Replica** is exactly what the title implies. I developed a gaming project that replicates the “Retro Space Invader.” **A brief overview:** the game’s main objective is for players to earn as many points as they can by eliminating incoming opponents. The player controls the spaceship located at the bottom of the screen, which can be rotated up to 180 degrees and shoot projectiles. Opponents appear at the top and descend at a random speed toward the player, and each hit on an opponent adds points to the player’s score, while missed shots and enemy contacts with the player will reduce the points. 
