@@ -8,6 +8,9 @@ published: true
 labels:
   - JavaScript
   - Typescript
+  - ES6
   - Programming Language
+  - WOD
+  - Athletic Software Engineering
 ---
 text here
