@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lhs-alma-mater/lahainaluna-high-school.jpg
+image: img/lhs-alma-mater/am-thumbnail.jpg
 title: "LHS Alma Mater"
 date: 2021-05
 published: true
