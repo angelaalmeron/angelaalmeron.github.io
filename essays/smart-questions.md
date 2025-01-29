@@ -10,4 +10,6 @@ labels:
   - Answers
   - Stack Overflow
 ---
-text here
+## Why is it so important?
+### Smart Questions
+### Not so Smart Questions
