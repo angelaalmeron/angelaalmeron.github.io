@@ -12,4 +12,8 @@ labels:
   - Programming Language
   - Athletic Software Engineering
 ---
-text here
+## Athletic Training but...in Computer Science
+### Thoughts about WOD
+## A TypeScript Newbie!
+### Thoughts about TypeScript
+### ES6 Newbie too!
