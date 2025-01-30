@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Navigating the Directory Path to Software Mastery"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-23
+date: 2025-01-29
 published: true
 labels:
   - Software Engineering
