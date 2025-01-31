@@ -11,6 +11,9 @@ labels:
   - Stack Overflow
 ---
 ## Value of Insightful Inquiries
+<div class="text-center p-4">
+  <img width="500px" src="../img/essay-01-25/essay-03-thumbnail.jpg" class="img-thumbnail" >
+</div>
 I understand how frustrating it can be when you are stuck on a problem for a long periods of time, driving you to ask your questions away without much of a thought. There is no problem in asking questions, but you know what is even more frustrating? Not obtaining the quality answers that you wanted in the first place. On that account, it is important to ask questions in the smart way.
 
 An efficient communication is highly crucial and important skills we must develop, not only as software engineers, but in any professional space. Eric Raymond's essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," offers enlightening advices on how to ask effective questions in technical and software development communities to get quality answers that may actually help you. Here are the key points to consider from the essay: 
@@ -47,3 +50,6 @@ A.pop(all);
 to remove all the elements? Or do I have to call .pop() a million times until it's empty?
 ```
 This question is not so well-formed because it lacks basic research and experimentation. In other words, the asker's issue can be easily clarified by a quick lookup in the documentation or basic programming tutorials, and tested the code themselves before posting such a question.
+
+## AI Usage
+In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed.
