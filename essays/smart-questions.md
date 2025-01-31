@@ -52,4 +52,4 @@ to remove all the elements? Or do I have to call .pop() a million times until it
 This question is not so well-formed because it lacks basic research and experimentation. In other words, the asker's issue can be easily clarified by a quick lookup in the documentation or basic programming tutorials, and tested the code themselves before posting such a question.
 
 ## AI Usage
-In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed.
+In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed, and to generate an example of a "not so smart" question.
