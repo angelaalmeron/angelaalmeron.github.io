@@ -10,10 +10,10 @@ labels:
   - Answers
   - Stack Overflow
 ---
-## Value of Insightful Inquiries
 <div class="text-center p-4">
   <img width="500px" src="../img/essay-01-25/essay-03-thumbnail.jpg" class="img-thumbnail" >
 </div>
+## Value of Insightful Inquiries
 I understand how frustrating it can be when you are stuck on a problem for a long periods of time, driving you to ask your questions away without much of a thought. There is no problem in asking questions, but you know what is even more frustrating? Not obtaining the quality answers that you wanted in the first place. On that account, it is important to ask questions in the smart way.
 
 An efficient communication is highly crucial and important skills we must develop, not only as software engineers, but in any professional space. Eric Raymond's essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," offers enlightening advices on how to ask effective questions in technical and software development communities to get quality answers that may actually help you. Here are the key points to consider from the essay: 
