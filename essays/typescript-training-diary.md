@@ -18,7 +18,7 @@ Coming from someone who have no prior knowledge of TypeScript, I've found this e
 
 Despite this learning progress, I frequently find myself more naturally inclined to write in JavaScript or other programming languages I am more used to--like Java as an instance--when tackling TypeScript exercises or asked to write in TypeScript. In that case, moving forward, I will continuously immerse myself more in TypeScript through practices, to fully grasp all its capabilities and become accustomed to like the other programming languages.
 
-<img width="500px" src="../img/essay-01-25/essay-02-practice-WOD.png" class="img-thumbnail" >
+<img width="700px" src="../img/essay-01-25/essay-02-practice-WOD.png" class="img-thumbnail" >
 
 ### From a Software Engineer Standpoint
 To think about it, is this language beneficial for software engineers? Absolutely! TypeScript provides significant advantages, as I've previously mentioned, it is quite useful particularly for managing large, complex projects where the benefits of type safety and enhanced tooling lead to better maintainability and fewer bugs. Not only that, it's more efficient, great clarity, and more concised to work with!
@@ -35,7 +35,7 @@ For in-depth details, read the essay ["Athletic Software Engineering (2017)"](ht
 ### First Impressions & Thoughts about WODs
 To achieve this pedagogy, ICS 314 introduced WODs (Workout of the Day) as our coding training. The very first graded WOD we had in class was quite stressful and nerve-wracking for me because we are all being pressured by time. Surprisingly, I love it because it pumps me up and actually challenge me. Perhaps, over time or at the end of the semester, I may begin to become accustomed to it, and continue to create strategies to improve my performance. 
 
-<img width="500px" src="../img/essay-01-25/essay-02-graded-WOD.png" class="img-thumbnail" >
+<img width="700px" src="../img/essay-01-25/essay-02-graded-WOD.png" class="img-thumbnail" >
 
 How is this helpful? It mimicks real-world scenarios! With these practices, it enforces us to write code that should be clear and efficient under pressure.
 
