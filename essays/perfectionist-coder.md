@@ -20,10 +20,10 @@ Do I often see it as a "bad thing"? Not really, because there are other aspects 
 
 Another great example that I am particularly proud of is a system I've created on a platform called *Notion*, described as *"a productivity and note-taking web application"* ([Wikipedia](https://en.wikipedia.org/wiki/Notion_(productivity_software))). I like to call it my "College-Life Dashboard," which centralizes all of the essentials I need for college. It includes details of all my current semester classes like syllabus information, scores, deadlines, and notes. There are two calendars: one for assignment and exam deadlines, and another for work projects and college events I may be interested in attending. My biggest favorite feature is the *quick capture* on the left corner of the page, which has buttons for adding new deadlines or events to the calendar, or for creating structured Cornell-style notes for a class lecture. Additional features on the corner include *navigation* (navigates you to all of the pages like deadlines, notes, etc.), music playlist to listen to while studying, a Pomodoro-*"a time management method...it uses a kitchen timer to break work into intervals, typically 25 minutes in length, separated by short breaks"* ([Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique))-timer, and last but not least, helpful resouurces that link directly to their websites.
 
-<img width="700px" src="../img/essay/essay-04-first.png" class="img-thumbnail" >
-<img width="700px" src="../img/essay/essay-04-second.png" class="img-thumbnail" >
-<img width="700px" src="../img/essay/essay-04-third.png" class="img-thumbnail" >
-<img width="700px" src="../img/essay/essay-04-fourth.png" class="img-thumbnail" >
+<img width="500px" src="../img/essay/essay-04-first.png" class="img-thumbnail" >
+<img width="500px" src="../img/essay/essay-04-second.png" class="img-thumbnail" >
+<img width="500px" src="../img/essay/essay-04-third.png" class="img-thumbnail" >
+<img width="500px" src="../img/essay/essay-04-fourth.png" class="img-thumbnail" >
 
 ## Perfectionism + Coder
 Just as my perfectionism drives me to ensure every part of my daily life is organized and meticulously planned, it plays a similar role in my coding endeavors. When I am programming, every line of code, indentation, and comment must be in perfect order. If I notice any small imperfections when reviewing my work later, as mentioned before, it will bother me for hours, or in the worst case, days. Again, I completely acknowledge that this may seem slow or meticulous to others, but it helps me avoid errors and enhances readability for others who read my code. Plus, it makes it look nicer.
