@@ -28,12 +28,12 @@ Here are some of the websites I've attempted and practiced:
 
 **Recreation of Island Snow**
 
-<img width="635px" height="500px" src="../img/essay/essay-05-islandsnow.png" class="img-thumbnail">
+<img width="635px" height="500px" src="../img/essay/essay-05-islandsnow.png">
 
 **Original v.s. Recreation of Tiny Protector's Sweetheart page**
 
-<img width="635px" height="500px" src="../img/essay/essay-05-tinyprot-ref.png" class="img-thumbnail">
-<img width="635px" height="500px" src="../img/essay/essay-05-tinyprot.png" class="img-thumbnail">
+<img width="635px" height="500px" src="../img/essay/essay-05-tinyprot-ref.png">
+<img width="635px" height="500px" src="../img/essay/essay-05-tinyprot.png">
 
 ## AI Usage
 In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed.
