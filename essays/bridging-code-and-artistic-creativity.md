@@ -4,7 +4,7 @@ type: essay
 title: "Bridging Code and Artistic Creativity"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: false
+published: true
 labels:
   - UI Frameworks
   - Bootstrap 5
