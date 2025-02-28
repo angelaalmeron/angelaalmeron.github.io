@@ -32,8 +32,8 @@ Here are some of the websites I've attempted and practiced:
 
 **Original v.s. Recreation of Tiny Protector's Sweetheart page**
 
-<img width="635px" src="../img/essay/essay-05-tinyprot-ref.png" class="img-thumbnail">
-<img width="635px" src="../img/essay/essay-05-tinyprot.png" class="img-thumbnail">
+<img width="635px" height="400px" src="../img/essay/essay-05-tinyprot-ref.png" class="img-thumbnail">
+<img width="635px" height="400px" src="../img/essay/essay-05-tinyprot.png" class="img-thumbnail">
 
 ## AI Usage
 In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed.
