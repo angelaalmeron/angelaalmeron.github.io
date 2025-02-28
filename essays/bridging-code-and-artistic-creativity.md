@@ -27,9 +27,11 @@ For the reason that Bootstrap 5 reminded me so much of using Code.org is that it
 Here are some of the websites I've attempted and practiced: 
 
 **Recreation of Island Snow**
+
 <img width="635px" src="../img/essay/essay-05-islandsnow.png" class="img-thumbnail">
 
 **Original v.s. Recreation of Tiny Protector's Sweetheart page**
+
 <img width="635px" src="../img/essay/essay-05-tinyprot-ref.png" class="img-thumbnail">
 <img width="635px" src="../img/essay/essay-05-tinyprot.png" class="img-thumbnail">
 
