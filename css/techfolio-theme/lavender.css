@@ -7,9 +7,9 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-lavender1: #896790;
-  --tf-lavender2: #bfadcc;
-  --tf-lavender3: #dfbbda;
-  --tf-lavender4: #ffe1f5;
+  --tf-lavender2: #a486d5;
+  --tf-lavender3: #c2b3e5;
+  --tf-lavender4: #d0c9ea;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-lavender1);
   --tf-pill-bg: var(--tf-lavender3);
