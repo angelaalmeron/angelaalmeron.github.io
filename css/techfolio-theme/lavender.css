@@ -34,7 +34,7 @@
 }
 
 .name {
-  font-family: var(--tf-name-font) !important;
+  font-family: var(--tf-name-font);
   color: black;
 }
 
