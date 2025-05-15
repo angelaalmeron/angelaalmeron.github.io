@@ -20,11 +20,22 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ 
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Next.js",
+      "Prisma",
+      "PostgreSQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "VSCode", "Eclipse", "UNIX" ]
     }
   ],
   "education": [
@@ -34,8 +45,13 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [ "Discrete Mathematics", "Data Structures", "Algorithms", "Software Engineering"
-      ]
+      "courses": [ "Discrete Mathematics", "Data Structures", "Algorithms", "Software Engineering" ]
+    },
+    {
+      "institution": "Lahainaluna High School",
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": [ "Intro to Computer Science" ]
     }
   ],
   "work": [
