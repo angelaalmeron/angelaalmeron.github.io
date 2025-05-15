@@ -6,17 +6,16 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-lavender0: #fbfaff;
-  --tf-lavender1: #896790;
-  --tf-lavender2: #a486d5;
-  --tf-lavender3: #c2b3e5;
-  --tf-lavender4: #d0c9ea;
+  --tf-lavender1: #6B4E8A;
+  --tf-lavender2: #8C6AAE;
+  --tf-lavender3: #A68CB5;
+  --tf-lavender4: #E7E0F2;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-lavender1);
   --tf-pill-bg: var(--tf-lavender3);
   --tf-icon-fill: var(--tf-lavender1);
   --tf-icon-hover: var(--tf-lavender3);
-  --tf-page-bg-color: var(--tf-lavender0);
+  --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-lavender4);
   --tf-projects-bg-color: var(--tf-lavender4);
 }
