@@ -15,14 +15,13 @@
   --tf-name-font: "DM Serif Display", serif;
   --tf-header-font: "Rubik", sans-serif;
   --tf-body-font: "Quattrocento", serif;
+  --bs-font-sans-serif: "Open Sans", sans-serif;
 
   /* Color */
   --tf-lavender1: #6B4E8A;
   --tf-lavender2: #8C6AAE;
   --tf-lavender3: #A68CB5;
   --tf-lavender4: #E7E0F2;
-
-  --bs-font-sans-serif: "Open Sans", sans-serif;
 
   --bs-link-color: var(--tf-lavender1);
   --tf-pill-bg: var(--tf-lavender3);
@@ -33,24 +32,29 @@
   --tf-projects-bg-color: var(--tf-lavender4);
 }
 
-.name {
+/* Name header under about section */
+.name { 
   font-family: var(--tf-name-font) !important;
   color: black;
 }
 
-.regular-text {
+/* Body */
+p {
   font-family: var(--tf-body-font);
 }
 
+/* E.g., Project & essay header */
 h1 {
   color: var(--tf-lavender1);
   font-family: var(--tf-header-font);
   font-weight: 700 !important;
 }
 
+/* E.g., Project & essay card header */
 h2,h3,h4,h5 {
   color: var(--tf-lavender1);
   font-family: var(--bs-font-sans-serif);
+  font-weight: bold;
 }
 
 /* Format social media icons */
