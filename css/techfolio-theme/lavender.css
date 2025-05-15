@@ -39,7 +39,7 @@
 }
 
 /* Body */
-p {
+p, ul, li {
   font-family: var(--tf-body-font);
 }
 
