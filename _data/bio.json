@@ -46,12 +46,6 @@
       "startDate": "2023",
       "endDate": "Present",
       "courses": [ "Discrete Mathematics", "Data Structures", "Algorithms", "Software Engineering" ]
-    },
-    {
-      "institution": "Lahainaluna High School",
-      "startDate": "2018",
-      "endDate": "2022",
-      "courses": [ "Intro to Computer Science" ]
     }
   ],
   "work": [
