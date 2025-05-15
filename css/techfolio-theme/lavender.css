@@ -14,7 +14,6 @@
 :root {
   /* Font */
   --tf-name-font: "DM Serif Display", serif;
-  --tf-header-font: "Rubik", sans-serif;
   --tf-body-font: "Quattrocento", serif;
 
   /* Color */
@@ -45,7 +44,7 @@
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-lavender1);
-  font-family: var(--tf-header-font);
+  font-family: Rubik;
 }
 
 /* Format social media icons */
