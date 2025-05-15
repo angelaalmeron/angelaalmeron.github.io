@@ -44,7 +44,7 @@
 
 h1 {
   color: var(--tf-lavender1);
-  font-family: var(--tf-header-font) !important;
+  font-family: var(--tf-header-font);
   font-weight: 700 !important;
 }
 
