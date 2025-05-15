@@ -34,7 +34,7 @@
 }
 
 .name {
-  font-family: var(--tf-name-font);
+  font-family: var(--tf-name-font) !important;
   color: black;
 }
 
@@ -45,7 +45,7 @@
 h1 {
   color: var(--tf-lavender1);
   font-family: var(--tf-header-font);
-  font-weight: 700;
+  font-weight: 700 !important;
 }
 
 h2,h3,h4,h5 {
