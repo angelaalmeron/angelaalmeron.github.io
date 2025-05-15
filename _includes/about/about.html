@@ -5,11 +5,11 @@
         <img width="300px" src="{{ site.data.bio.basics.picture }}" class="d-block mx-auto rounded-circle">
       </div>
       <div class="col-lg-8">
-        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
-        <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
-        <p class="lead text-center">{{ site.data.bio.basics.summary }}</p>
+        <h1 class="display-4 text-center name">{{ site.data.bio.basics.name }}</h1>
+        <p class="lead text-center regular-text">{{ site.data.bio.basics.label }}</p>
+        <p class="lead text-center regular-text">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
-        <p class="lead m-0 text-center">
+        <p class="lead m-0 text-center regular-text">
           {% for interest in site.data.bio.interests %}
           {{ interest.name }}{% if forloop.last != true %}. {% endif %}
           {% endfor %}

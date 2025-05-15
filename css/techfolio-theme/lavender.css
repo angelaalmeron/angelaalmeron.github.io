@@ -1,16 +1,30 @@
 /* Lavender Theme: modifies the default theme to use lavender in various places. */
 
 /* Use Open Sans as the default font. */
+/* Defaults */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
+/* Customs */
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  /* Font */
+  --tf-name-font: "DM Serif Display", serif;
+  --tf-header-font: "Rubik Mono One", sans-serif;
+  --tf-body-font: "Quattrocento", serif;
+
+  /* Color */
   --tf-lavender1: #6B4E8A;
   --tf-lavender2: #8C6AAE;
   --tf-lavender3: #A68CB5;
   --tf-lavender4: #E7E0F2;
+
   --bs-font-sans-serif: "Open Sans", sans-serif;
+
   --bs-link-color: var(--tf-lavender1);
   --tf-pill-bg: var(--tf-lavender3);
   --tf-icon-fill: var(--tf-lavender1);
@@ -20,10 +34,18 @@
   --tf-projects-bg-color: var(--tf-lavender4);
 }
 
+.name {
+  font-family: var(--tf-name-font);
+  color: black;
+}
+
+.regular-text {
+  font-family: var(--tf-body-font);
+}
+
 h1,h2,h3,h4,h5 {
   color: var(--tf-lavender1);
-  font-family: Rubik;
-  font-weight: 700;
+  font-family: var(--tf-header-font);
 }
 
 /* Format social media icons */
@@ -55,7 +77,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-lavender1);
+  border-color: var(--tf-lavender4);
   border-style: solid;
   border-width: 1px;
 }
