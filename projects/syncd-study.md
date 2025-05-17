@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/syncd-study/syncdstudy-logo.png
+image: img/syncd-study/logo.png
 title: "Sync'd Study"
 date: 2025-05
 published: true
