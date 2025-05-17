@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering Beyond the Browser"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-14
-published: false
+published: true
 labels:
   - Software Engineering
   - Teamwork Effort
