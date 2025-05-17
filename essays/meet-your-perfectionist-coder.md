@@ -68,9 +68,10 @@ int main(){
 ```
 
 ICS 314-a course that focuses on software engineering-on the other hand, introduced us to a specific tool called ESLint on VSCode that helps or assists me in writing quality code that adheres the class' coding standards, and it made my life so much easier as a *perfectionist coder*. I am compelled not only to address every error-such as code or style issues-but also to understand why each issue was flagged, which significantly helps me not only write better code and improve code quality but also enhance my coding skills. I will admit, though, besides the beneficial aspects of ESLint, my initial experience with ESLint during the first week of using it was a bit painful and annoying because I spent hours trying to understand and resolve what might be the issue, a situation that may reoccur in the future. 
-![](https://github.com/angelaalmeron/angelaalmeron.github.io/blob/main/img/essay/essay-04-eslint-service.gif)
+
+<img width="500px" src="../img/essay/essay-04-eslint-service.gif" class="img-thumbnail" >
 
 One might ask, what are my general thoughts on coding standards? Focusing more on coding standards rather than the different techniques to help adhere to these standards, I'd say they are actually helpful guides. Making code look nice is just one aspect of it, but what is more important is understanding why consistency in coding matters and how these standards makes the code more readable and easier to manage, especially when working in teams. The point I am trying to make is that it is not just about the code working correctly; it is also about writing code that can be easily understood and modified by others or by me in the future. This will become an essential aspect moving forward because in this field, we all love to work in teams, so we need code that makes collaboration easier!
 
-## AI Usage
-In writing this essay, I've utilized AI to refine the flow and enhance the way concepts are expressed.
+## Note on AI Use
+*This essay was written with the help from AI. I collaborated with AI to grammar-check and enhance the tone of this essay, but all the final content, voice, and personalization were reviewed and tailored by me.*
